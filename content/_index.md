@@ -18,6 +18,4 @@ title: Historie jízdního kola
 
 >http://www.ambike.com/historie-bicyklu-od-a-az-do-z/
 
->https://commons.wikimedia.org/wiki/Category:Historical_bicyclesSomething to read: Sonnet LXVI.
-
-
+>https://commons.wikimedia.org/wiki/Category:Historical_bicycles
