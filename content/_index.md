@@ -2,7 +2,7 @@
 title: Historie jízdního kola
 ---
 
-## Chci veřejnost seznámit s historii vzniku vynálezu, který dnes používá běžně téměř každý, jízdního kola.**
+## Chci veřejnost seznámit s historii vzniku vynálezu, který dnes používá běžně téměř každý, jízdního kola.
 
 >Jízdní kolo současnosti zná každý, ale málokdo zná jeho historii.
 
