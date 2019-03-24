@@ -10,7 +10,7 @@ title: Historie jízdního kola
 
 >Jsou nadšenci, kteří se scházejí a ukazují veřejnosti jak stará kola vypadala, ale i dobové oblečení. Otevírají se nová muzea cyklistiky. Ráda bych pomohla propagovat tyto akce a poradit lidem, které toto téma zaujme kde najdou informace.
 
->Ve volném čase se zajímám o technickou minulost, jsem majitelka starých aut, kočárků a pár retro věcí. Mám i kola z doby ze začátku století. Proto bych se chtěla podílet o mé poznatky.
+>Ve volném čase se zajímám o technickou minulost, jsem majitelka starých aut, kočárků a pár retro věcí. Mám i kola z doby ze začátku minulého století. Proto bych se chtěla podílet o mé poznatky.
 
 >Zdroje:
 
