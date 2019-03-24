@@ -2,11 +2,7 @@
 title: Historie jízdního kola
 ---
 
-# Hello World! (It works!)
-
-This are the contents of the Hugo start website front page.
-
-## Seznámit s historii vzniku vynálezu, který dnes používá běžně téměř každý, jízdního kola.**
+## Chci veřejnost seznámit s historii vzniku vynálezu, který dnes používá běžně téměř každý, jízdního kola.**
 
 >Jízdní kolo současnosti zná každý, ale málokdo zná jeho historii.
 
